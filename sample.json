@@ -1,11 +1,1 @@
-[
-  { "id": 1, "name": "MS Dhoni", "age": 43, "profession": "Cricketer" },
-  { "id": 2, "name": "Aliabhatt", "age": 31, "profession": "Actress" },
-  { "id": 3, "name": "Suriya", "age": 49, "profession": "Actor" },
-  { "id": 4, "name": "Srk", "age": 58, "profession": "Actor" },
-  { "id": 5, "name": "Hrithik", "age": 50, "profession": "Actor" },
-  { "id": 6, "name": "Suresh Raina", "age": 37, "profession": "Cricketer" },
-  { "id": 7, "name": "Ravindra Jadeja", "age": 35, "profession": "Cricketer" },
-  { "id": 8, "name": "Lionel Messi", "age": 38, "profession": "Footballer" },
-  { "id": 9, "name": "Janhvi", "age": 27, "profession": "Actress" }
-]
+[{"id":1,"name":"MS Dhoni","age":"43","profession":"Cricketer"},{"id":2,"name":"Aliabhatt","age":31,"profession":"Actress"},{"id":3,"name":"Suriya","age":49,"profession":"Actor"},{"id":4,"name":"Srk","age":58,"profession":"Actor"},{"id":5,"name":"Hrithik","age":50,"profession":"Actor"},{"id":6,"name":"Suresh Raina","age":37,"profession":"Cricketer"},{"id":7,"name":"Ravindra Jadeja","age":35,"profession":"Cricketer"},{"id":8,"name":"Lionel Messi","age":38,"profession":"Footballer"},{"id":9,"name":"Janhvi","age":27,"profession":"Actress"}]
