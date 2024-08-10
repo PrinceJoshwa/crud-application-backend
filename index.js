@@ -11,12 +11,14 @@ const app = express();
 app.use(express.json());
 const port = process.env.PORT || 8000; // Use PORT from .env or default to 8000
 
-app.use(
-    cors({
-        origin: "*", // Frontend URL
-        methods: ["GET", "POST", "PATCH", "DELETE"],
-    })
-);
+// app.use(
+//     cors({
+//         origin: "*", // Frontend URL
+//         methods: ["GET", "POST", "PATCH", "DELETE"],
+//     })
+// );
+
+app.use(cors());
 
 // Display All Users
 app.get("/users", (req, res) => {
